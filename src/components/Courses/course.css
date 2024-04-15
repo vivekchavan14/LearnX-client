@@ -1,0 +1,9 @@
+.courses .courses {
+    width: 250px;
+    margin-bottom: 1rem;
+    transition : all 0.5s;
+}
+
+.courses .course {
+  transform: translateX(-10px);;
+}
