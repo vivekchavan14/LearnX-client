@@ -1,11 +1,11 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import {
   Box,
   Heading,
   VStack,
   Text,
   Button,
-  Link,
 } from '@chakra-ui/react';
 import './Home.css';
 
